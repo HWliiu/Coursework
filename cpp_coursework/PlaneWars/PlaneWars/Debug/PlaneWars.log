@@ -1,0 +1,9 @@
+﻿  Game.cpp
+c:\users\plays\source\repos\planewars\planewars\game.cpp(35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\plays\source\repos\planewars\planewars\game.cpp(43): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\plays\source\repos\planewars\planewars\game.cpp(48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\plays\source\repos\planewars\planewars\game.cpp(49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\plays\source\repos\planewars\planewars\game.cpp(61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\plays\source\repos\planewars\planewars\game.cpp(62): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  PlaneWars.vcxproj -> C:\Users\plays\source\repos\PlaneWars\Debug\PlaneWars.exe
+  PlaneWars.vcxproj -> C:\Users\plays\source\repos\PlaneWars\Debug\PlaneWars.pdb (Partial PDB)
